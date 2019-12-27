@@ -1,0 +1,51 @@
+body{
+  margin: 50px 100px;
+  border: thick double black;
+  height: 75vh;
+}
+
+.container{
+  margin: 10px 30px;
+  padding: 5px;
+  background-color: rgba(252, 252, 181, 0.24);
+  border-radius: 15px;
+}
+
+h1{
+    text-align: center;
+    font-size: 42px;
+    font-weight: 400;
+    color: crimson;
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+td{
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+}
+
+button{
+    height: 40px;
+    width: 50px;
+    background-color: rgba(78, 226, 43, 0);
+    border: 2px solid red;
+    border-radius: 5px;
+    font-size: 16px;
+    
+}
+button {
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+button:hover {
+  background-color: red; /* Green */
+  color: white;
+}
