@@ -1,0 +1,38 @@
+body{
+  margin: 50px 250px;
+}
+
+.container{
+  background-color: rgba(224, 241, 255, 0.93);
+  padding: 20px 10px;
+    border-radius: 14px;
+}
+
+button{
+  padding: 10px;
+  background-color:#4b88f4;
+    border-radius: 12px;
+    border-width: medium;
+    border-color: blue;
+    color: azure;
+}
+
+h1{
+    font-size: 42px;
+    font-weight: 400;
+    color:#0d1c38;
+}
+
+#table_con{
+    margin-top: 5px;
+    background: rgba(0, 0, 0, 0)
+}
+
+td{
+    height: 120px;
+    width: 120px;
+    text-align: center;
+    border: 5px solid black;
+    font-size: 80px;
+}
+
